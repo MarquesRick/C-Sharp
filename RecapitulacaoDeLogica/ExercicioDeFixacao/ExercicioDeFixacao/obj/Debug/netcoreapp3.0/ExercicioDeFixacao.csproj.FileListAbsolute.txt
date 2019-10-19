@@ -1,0 +1,11 @@
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.0\ExercicioDeFixacao.exe
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.0\ExercicioDeFixacao.deps.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.0\ExercicioDeFixacao.runtimeconfig.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.0\ExercicioDeFixacao.runtimeconfig.dev.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.0\ExercicioDeFixacao.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.0\ExercicioDeFixacao.pdb
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.0\ExercicioDeFixacao.csprojAssemblyReference.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.0\ExercicioDeFixacao.AssemblyInfoInputs.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.0\ExercicioDeFixacao.AssemblyInfo.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.0\ExercicioDeFixacao.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.0\ExercicioDeFixacao.pdb
