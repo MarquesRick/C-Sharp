@@ -1,0 +1,11 @@
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.0\SaidaDeDados.exe
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.0\SaidaDeDados.deps.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.0\SaidaDeDados.runtimeconfig.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.0\SaidaDeDados.runtimeconfig.dev.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.0\SaidaDeDados.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\SaidaDeDados\SaidaDeDados\bin\Debug\netcoreapp3.0\SaidaDeDados.pdb
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.0\SaidaDeDados.csprojAssemblyReference.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.0\SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.0\SaidaDeDados.AssemblyInfo.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.0\SaidaDeDados.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\SaidaDeDados\SaidaDeDados\obj\Debug\netcoreapp3.0\SaidaDeDados.pdb
