@@ -1,0 +1,11 @@
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.0\PrimeiroPrograma.exe
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.0\PrimeiroPrograma.deps.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.0\PrimeiroPrograma.runtimeconfig.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.0\PrimeiroPrograma.runtimeconfig.dev.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.0\PrimeiroPrograma.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\netcoreapp3.0\PrimeiroPrograma.pdb
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.0\PrimeiroPrograma.csprojAssemblyReference.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.0\PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.0\PrimeiroPrograma.AssemblyInfo.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.0\PrimeiroPrograma.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\netcoreapp3.0\PrimeiroPrograma.pdb
