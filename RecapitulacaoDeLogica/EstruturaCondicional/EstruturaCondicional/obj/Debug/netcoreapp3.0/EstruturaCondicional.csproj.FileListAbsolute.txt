@@ -1,0 +1,11 @@
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.0\EstruturaCondicional.exe
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.0\EstruturaCondicional.deps.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.0\EstruturaCondicional.runtimeconfig.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.0\EstruturaCondicional.runtimeconfig.dev.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.0\EstruturaCondicional.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\EstruturaCondicional\EstruturaCondicional\bin\Debug\netcoreapp3.0\EstruturaCondicional.pdb
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.0\EstruturaCondicional.csprojAssemblyReference.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.0\EstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.0\EstruturaCondicional.AssemblyInfo.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.0\EstruturaCondicional.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\RecapitulacaoDeLogica\EstruturaCondicional\EstruturaCondicional\obj\Debug\netcoreapp3.0\EstruturaCondicional.pdb
