@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\ReseolvedoSemClasse\\ReseolvedoSemClasse\\ReseolvedoSemClasse.csproj": {}
+    "C:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\PrimeirosExercicios1\\PrimeirosExercicios1\\PrimeirosExercicios1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\ReseolvedoSemClasse\\ReseolvedoSemClasse\\ReseolvedoSemClasse.csproj": {
+    "C:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\PrimeirosExercicios1\\PrimeirosExercicios1\\PrimeirosExercicios1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\ReseolvedoSemClasse\\ReseolvedoSemClasse\\ReseolvedoSemClasse.csproj",
-        "projectName": "ReseolvedoSemClasse",
-        "projectPath": "c:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\ReseolvedoSemClasse\\ReseolvedoSemClasse\\ReseolvedoSemClasse.csproj",
+        "projectUniqueName": "C:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\PrimeirosExercicios1\\PrimeirosExercicios1\\PrimeirosExercicios1.csproj",
+        "projectName": "PrimeirosExercicios1",
+        "projectPath": "C:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\PrimeirosExercicios1\\PrimeirosExercicios1\\PrimeirosExercicios1.csproj",
         "packagesPath": "C:\\Users\\henma\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\ReseolvedoSemClasse\\ReseolvedoSemClasse\\obj\\",
+        "outputPath": "C:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\PrimeirosExercicios1\\PrimeirosExercicios1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henma\\AppData\\Roaming\\NuGet\\NuGet.Config",

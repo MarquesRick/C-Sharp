@@ -1,0 +1,11 @@
+c:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\ReseolvedoSemClasse\ReseolvedoSemClasse\bin\Debug\netcoreapp3.0\ReseolvedoSemClasse.exe
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\ReseolvedoSemClasse\ReseolvedoSemClasse\bin\Debug\netcoreapp3.0\ReseolvedoSemClasse.deps.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\ReseolvedoSemClasse\ReseolvedoSemClasse\bin\Debug\netcoreapp3.0\ReseolvedoSemClasse.runtimeconfig.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\ReseolvedoSemClasse\ReseolvedoSemClasse\bin\Debug\netcoreapp3.0\ReseolvedoSemClasse.runtimeconfig.dev.json
+c:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\ReseolvedoSemClasse\ReseolvedoSemClasse\bin\Debug\netcoreapp3.0\ReseolvedoSemClasse.dll
+c:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\ReseolvedoSemClasse\ReseolvedoSemClasse\bin\Debug\netcoreapp3.0\ReseolvedoSemClasse.pdb
+c:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\ReseolvedoSemClasse\ReseolvedoSemClasse\obj\Debug\netcoreapp3.0\ReseolvedoSemClasse.csprojAssemblyReference.cache
+c:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\ReseolvedoSemClasse\ReseolvedoSemClasse\obj\Debug\netcoreapp3.0\ReseolvedoSemClasse.AssemblyInfoInputs.cache
+c:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\ReseolvedoSemClasse\ReseolvedoSemClasse\obj\Debug\netcoreapp3.0\ReseolvedoSemClasse.AssemblyInfo.cs
+c:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\ReseolvedoSemClasse\ReseolvedoSemClasse\obj\Debug\netcoreapp3.0\ReseolvedoSemClasse.dll
+c:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\ReseolvedoSemClasse\ReseolvedoSemClasse\obj\Debug\netcoreapp3.0\ReseolvedoSemClasse.pdb

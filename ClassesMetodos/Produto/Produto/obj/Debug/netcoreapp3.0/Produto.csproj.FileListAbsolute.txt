@@ -1,0 +1,11 @@
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\Produto\Produto\bin\Debug\netcoreapp3.0\Produto.exe
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\Produto\Produto\bin\Debug\netcoreapp3.0\Produto.deps.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\Produto\Produto\bin\Debug\netcoreapp3.0\Produto.runtimeconfig.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\Produto\Produto\bin\Debug\netcoreapp3.0\Produto.runtimeconfig.dev.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\Produto\Produto\bin\Debug\netcoreapp3.0\Produto.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\Produto\Produto\bin\Debug\netcoreapp3.0\Produto.pdb
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\Produto\Produto\obj\Debug\netcoreapp3.0\Produto.csprojAssemblyReference.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\Produto\Produto\obj\Debug\netcoreapp3.0\Produto.AssemblyInfoInputs.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\Produto\Produto\obj\Debug\netcoreapp3.0\Produto.AssemblyInfo.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\Produto\Produto\obj\Debug\netcoreapp3.0\Produto.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\Produto\Produto\obj\Debug\netcoreapp3.0\Produto.pdb

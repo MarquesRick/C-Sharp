@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\ReseolvedoSemClasse\\ReseolvedoSemClasse\\ReseolvedoSemClasse.csproj": {}
+    "C:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\Produto\\Produto\\Produto.csproj": {}
   },
   "projects": {
-    "c:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\ReseolvedoSemClasse\\ReseolvedoSemClasse\\ReseolvedoSemClasse.csproj": {
+    "C:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\Produto\\Produto\\Produto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\ReseolvedoSemClasse\\ReseolvedoSemClasse\\ReseolvedoSemClasse.csproj",
-        "projectName": "ReseolvedoSemClasse",
-        "projectPath": "c:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\ReseolvedoSemClasse\\ReseolvedoSemClasse\\ReseolvedoSemClasse.csproj",
+        "projectUniqueName": "C:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\Produto\\Produto\\Produto.csproj",
+        "projectName": "Produto",
+        "projectPath": "C:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\Produto\\Produto\\Produto.csproj",
         "packagesPath": "C:\\Users\\henma\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\ReseolvedoSemClasse\\ReseolvedoSemClasse\\obj\\",
+        "outputPath": "C:\\Users\\henma\\source\\repos\\MarquesRick\\C-Sharp\\ClassesMetodos\\Produto\\Produto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henma\\AppData\\Roaming\\NuGet\\NuGet.Config",

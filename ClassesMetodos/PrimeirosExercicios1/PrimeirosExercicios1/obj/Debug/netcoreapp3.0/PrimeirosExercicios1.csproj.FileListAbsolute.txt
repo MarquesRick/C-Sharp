@@ -1,0 +1,11 @@
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\PrimeirosExercicios1\PrimeirosExercicios1\bin\Debug\netcoreapp3.0\PrimeirosExercicios1.exe
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\PrimeirosExercicios1\PrimeirosExercicios1\bin\Debug\netcoreapp3.0\PrimeirosExercicios1.deps.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\PrimeirosExercicios1\PrimeirosExercicios1\bin\Debug\netcoreapp3.0\PrimeirosExercicios1.runtimeconfig.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\PrimeirosExercicios1\PrimeirosExercicios1\bin\Debug\netcoreapp3.0\PrimeirosExercicios1.runtimeconfig.dev.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\PrimeirosExercicios1\PrimeirosExercicios1\bin\Debug\netcoreapp3.0\PrimeirosExercicios1.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\PrimeirosExercicios1\PrimeirosExercicios1\bin\Debug\netcoreapp3.0\PrimeirosExercicios1.pdb
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\PrimeirosExercicios1\PrimeirosExercicios1\obj\Debug\netcoreapp3.0\PrimeirosExercicios1.csprojAssemblyReference.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\PrimeirosExercicios1\PrimeirosExercicios1\obj\Debug\netcoreapp3.0\PrimeirosExercicios1.AssemblyInfoInputs.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\PrimeirosExercicios1\PrimeirosExercicios1\obj\Debug\netcoreapp3.0\PrimeirosExercicios1.AssemblyInfo.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\PrimeirosExercicios1\PrimeirosExercicios1\obj\Debug\netcoreapp3.0\PrimeirosExercicios1.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ClassesMetodos\PrimeirosExercicios1\PrimeirosExercicios1\obj\Debug\netcoreapp3.0\PrimeirosExercicios1.pdb
