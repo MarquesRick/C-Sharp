@@ -16,3 +16,6 @@
 /ClassesMetodos/PrimeirosExercicios1/.vs/PrimeirosExercicios1/DesignTimeBuild
 /ClassesMetodos/Produto/.vs/Produto/DesignTimeBuild/.dtbcache
 /ClassesMetodos/Produto/.vs/Produto/v16/Server/sqlite3
+*.dtbcache
+*.lock
+*.ide

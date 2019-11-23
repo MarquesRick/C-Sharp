@@ -1,0 +1,11 @@
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\VetoresPt1\VetoresPt1\bin\Debug\netcoreapp3.0\VetoresPt1.exe
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\VetoresPt1\VetoresPt1\bin\Debug\netcoreapp3.0\VetoresPt1.deps.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\VetoresPt1\VetoresPt1\bin\Debug\netcoreapp3.0\VetoresPt1.runtimeconfig.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\VetoresPt1\VetoresPt1\bin\Debug\netcoreapp3.0\VetoresPt1.runtimeconfig.dev.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\VetoresPt1\VetoresPt1\bin\Debug\netcoreapp3.0\VetoresPt1.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\VetoresPt1\VetoresPt1\bin\Debug\netcoreapp3.0\VetoresPt1.pdb
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\VetoresPt1\VetoresPt1\obj\Debug\netcoreapp3.0\VetoresPt1.csprojAssemblyReference.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\VetoresPt1\VetoresPt1\obj\Debug\netcoreapp3.0\VetoresPt1.AssemblyInfoInputs.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\VetoresPt1\VetoresPt1\obj\Debug\netcoreapp3.0\VetoresPt1.AssemblyInfo.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\VetoresPt1\VetoresPt1\obj\Debug\netcoreapp3.0\VetoresPt1.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\VetoresPt1\VetoresPt1\obj\Debug\netcoreapp3.0\VetoresPt1.pdb

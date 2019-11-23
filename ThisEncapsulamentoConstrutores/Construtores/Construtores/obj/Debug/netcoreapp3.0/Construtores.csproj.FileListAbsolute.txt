@@ -1,0 +1,11 @@
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Construtores\Construtores\bin\Debug\netcoreapp3.0\Construtores.exe
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Construtores\Construtores\bin\Debug\netcoreapp3.0\Construtores.deps.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Construtores\Construtores\bin\Debug\netcoreapp3.0\Construtores.runtimeconfig.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Construtores\Construtores\bin\Debug\netcoreapp3.0\Construtores.runtimeconfig.dev.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Construtores\Construtores\bin\Debug\netcoreapp3.0\Construtores.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Construtores\Construtores\bin\Debug\netcoreapp3.0\Construtores.pdb
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Construtores\Construtores\obj\Debug\netcoreapp3.0\Construtores.csprojAssemblyReference.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Construtores\Construtores\obj\Debug\netcoreapp3.0\Construtores.AssemblyInfoInputs.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Construtores\Construtores\obj\Debug\netcoreapp3.0\Construtores.AssemblyInfo.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Construtores\Construtores\obj\Debug\netcoreapp3.0\Construtores.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Construtores\Construtores\obj\Debug\netcoreapp3.0\Construtores.pdb

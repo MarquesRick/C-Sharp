@@ -1,0 +1,22 @@
+Properties:
+
+São definições de métodos encapsulados expondo sintaxe similar `za 
+atributos e não de métodos.
+Podem ser utilizadas como atributos publico, mas são métodos 
+utilizados para acessar.
+
+Atributos Privates são utilizados com a nomenclatura "_nomeAtributo".
+
+Exemplo: 
+
+public string Nome{
+
+get { return _nome }
+set { if(value != null && value.Length > 1){
+		_nome = value;
+	}
+}
+
+VALUE: Propriedade para definir o valor ao inves de utilizar o setNome
+
+

@@ -1,0 +1,11 @@
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.0\ExercicioFixacao.csprojAssemblyReference.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.0\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.0\ExercicioFixacao.AssemblyInfo.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.0\ExercicioFixacao.exe
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.0\ExercicioFixacao.deps.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.0\ExercicioFixacao.runtimeconfig.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.0\ExercicioFixacao.runtimeconfig.dev.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.0\ExercicioFixacao.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\bin\Debug\netcoreapp3.0\ExercicioFixacao.pdb
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.0\ExercicioFixacao.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\ExercicioFixacao\ExercicioFixacao\ExercicioFixacao\obj\Debug\netcoreapp3.0\ExercicioFixacao.pdb

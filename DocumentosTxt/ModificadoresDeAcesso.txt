@@ -1,0 +1,18 @@
+Modificadores de acesso
+
+public = Permite que um membro da classe possa ser alterado pela classe, subclasse, classes assembly, subclasses do assembly e classes fora do assembly.
+
+protected internal = Permite que um membro da classe possa ser alterado pela classe, subclasse, classes assembly, subclasses do assembly.
+
+internal: Permite que um membro da classe possa ser 
+alterado pela classe, subclasse, classes assembly.
+
+protected: Permite que um membro da classe possa ser alterado pela classe, subclasse fora do assembly.
+
+private protected: Permite que um membro da classe possa ser 
+alterado pela classe, subclasse.
+
+private: Permite que um membro da classe possa ser 
+alterado pela classe.
+
+se não houver um modificar antes do class, ele terá automaticamente o modificador protected.

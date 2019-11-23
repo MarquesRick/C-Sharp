@@ -1,0 +1,12 @@
+AutoProperties
+
+São métodos auto implementados. Que podem ser definidos logo em sua criação de get/set juntamente com a definição da variável.
+
+Exemplo:
+
+private double Preco { get; set; }
+private int ano { get; private set; }
+
+Posso privar colocando o private logo em sua criação.
+
+Atalho: Escrever prop e dar tab + tab (auto preenche) = Snippet.

@@ -1,0 +1,11 @@
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Nullable\Nullable\bin\Debug\netcoreapp3.0\Nullable.exe
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Nullable\Nullable\bin\Debug\netcoreapp3.0\Nullable.deps.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Nullable\Nullable\bin\Debug\netcoreapp3.0\Nullable.runtimeconfig.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Nullable\Nullable\bin\Debug\netcoreapp3.0\Nullable.runtimeconfig.dev.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Nullable\Nullable\bin\Debug\netcoreapp3.0\Nullable.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Nullable\Nullable\bin\Debug\netcoreapp3.0\Nullable.pdb
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Nullable\Nullable\obj\Debug\netcoreapp3.0\Nullable.csprojAssemblyReference.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Nullable\Nullable\obj\Debug\netcoreapp3.0\Nullable.AssemblyInfoInputs.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Nullable\Nullable\obj\Debug\netcoreapp3.0\Nullable.AssemblyInfo.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Nullable\Nullable\obj\Debug\netcoreapp3.0\Nullable.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Nullable\Nullable\obj\Debug\netcoreapp3.0\Nullable.pdb

@@ -1,0 +1,11 @@
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.0\Encapsulamento.csprojAssemblyReference.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.exe
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.deps.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.runtimeconfig.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.runtimeconfig.dev.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.pdb
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.0\Encapsulamento.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ThisEncapsulamentoConstrutores\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.0\Encapsulamento.pdb

@@ -1,0 +1,7 @@
+Order sugerida para implementação de membros de classe:
+
+- Atributos privados
+- Propriedades autoimplementadas
+- Construtores
+- Porpriedades Customizadas
+- Outro métodos da classe
