@@ -1,0 +1,11 @@
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\ExercicioFixacaoLists\ExercicioFixacaoLists\bin\Debug\netcoreapp3.0\ExercicioFixacaoLists.exe
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\ExercicioFixacaoLists\ExercicioFixacaoLists\bin\Debug\netcoreapp3.0\ExercicioFixacaoLists.deps.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\ExercicioFixacaoLists\ExercicioFixacaoLists\bin\Debug\netcoreapp3.0\ExercicioFixacaoLists.runtimeconfig.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\ExercicioFixacaoLists\ExercicioFixacaoLists\bin\Debug\netcoreapp3.0\ExercicioFixacaoLists.runtimeconfig.dev.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\ExercicioFixacaoLists\ExercicioFixacaoLists\bin\Debug\netcoreapp3.0\ExercicioFixacaoLists.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\ExercicioFixacaoLists\ExercicioFixacaoLists\bin\Debug\netcoreapp3.0\ExercicioFixacaoLists.pdb
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\ExercicioFixacaoLists\ExercicioFixacaoLists\obj\Debug\netcoreapp3.0\ExercicioFixacaoLists.csprojAssemblyReference.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\ExercicioFixacaoLists\ExercicioFixacaoLists\obj\Debug\netcoreapp3.0\ExercicioFixacaoLists.AssemblyInfoInputs.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\ExercicioFixacaoLists\ExercicioFixacaoLists\obj\Debug\netcoreapp3.0\ExercicioFixacaoLists.AssemblyInfo.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\ExercicioFixacaoLists\ExercicioFixacaoLists\obj\Debug\netcoreapp3.0\ExercicioFixacaoLists.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\ExercicioFixacaoLists\ExercicioFixacaoLists\obj\Debug\netcoreapp3.0\ExercicioFixacaoLists.pdb

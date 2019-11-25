@@ -1,0 +1,11 @@
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\List\List\bin\Debug\netcoreapp3.0\List.exe
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\List\List\bin\Debug\netcoreapp3.0\List.deps.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\List\List\bin\Debug\netcoreapp3.0\List.runtimeconfig.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\List\List\bin\Debug\netcoreapp3.0\List.runtimeconfig.dev.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\List\List\bin\Debug\netcoreapp3.0\List.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\List\List\bin\Debug\netcoreapp3.0\List.pdb
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\List\List\obj\Debug\netcoreapp3.0\List.csprojAssemblyReference.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\List\List\obj\Debug\netcoreapp3.0\List.AssemblyInfoInputs.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\List\List\obj\Debug\netcoreapp3.0\List.AssemblyInfo.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\List\List\obj\Debug\netcoreapp3.0\List.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\List\List\obj\Debug\netcoreapp3.0\List.pdb

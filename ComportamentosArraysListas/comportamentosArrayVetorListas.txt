@@ -1,0 +1,34 @@
+----------------------------------------------
+|Aula Comportamento de memória, arrays, listas|
+-----------------------------------------------
+Classes de referencia são tipos de referencias(Ponteiros de memoria).
+
+Structs = Tipos basicos da linguagem (Caixas que armazem o valor da variável. Diferente de referencia, ele armazena o valor em uma 'caixa' ou local de memoria.
+Tipos de Structs: Tipos primitivos de variáveis.
+datetime e TimeSpan também são tipos de Struct.
+
+Garbage Colector (GC):
+
+Limpa os objetos e espaços de memória que foram criados no HEAP após a execução.
+
+Nullable = Metodo para declarar Struct Null
+
+//Operador de coalescencia nula
+double? i = null;
+Operador de coalescencia nula: Se o valor de i for nulo ele atribuira o valor 0.9 senão ele atribui o valor de i na variavel m;
+double m = i ?? 0.9;
+
+Vetores pt 1
+São arranjos unidimensionais homogeneos(do mesmo tipo).
+Ordenada (Elementos acessados por meio de posições)
+
+Modificador Params:
+
+Sem o params teriamos que instanciar as variaveis.
+Ele permite que seja referenciado numeros ilimitados de variaveis.
+
+Modificar ref e out
+
+O modificador out é similar ao ref (faz o parâmetro ser uma referência para a variável
+original), mas não exige que a variável original seja iniciada.
+
