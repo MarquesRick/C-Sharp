@@ -1,0 +1,10 @@
+Usando Scaffolding para criar CRUD automaticamente com base em uma classe.
+
+CRUD Scaffolding
+Checklist:
+* Right button Controllers -> Add -> New Scaffolded Item
+o MVC controllers with views, using Entity Framework
+o Model class: Department
+(Sub classe do DB-Context) o Data context class: + and accept the name
+o Views (options): all three
+o Controller name: DepartmentsController

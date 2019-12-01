@@ -1,0 +1,17 @@
+Estrutura do Projeto:
+
+Checklist:
+wwwroot: application resources (css, imagens, etc.)
+Controllers: application's MVC controllers
+Models: entities and "view models"
+Views: pages (notice naming conventions against controllers)
+o Shared: views used for more than one controller
+appsettings.json: external resources configuration (logging, connection strings, etc.)
+Program.cs: entry point
+Startup.cs: app configuration
+
+CSHTML == Razor - Contendo funções C# e HTML.
+_Layout == Define o layout básico de todas as páginas.
+ViewStart == Onde define a pagina inicial
+Program == Ponto de entrada 
+Configure == Configurar comportamentos do HTTP

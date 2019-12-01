@@ -1,0 +1,20 @@
+Entity Framework:
+
+Para se criar um sistema OO se comunicar com um banco relacional é necessario um framework entity.
+
+Lazy Loading - Carregamento tardio = Busca um objeto que tenha relação para muitos, não poderá ser carregado todos esses objetos.
+
+Entity Framework = 
+
+Providers: Especificações para cada banco de dados.
+
+- Principais classes - 
+
+DbContext
+DbSet<TEntity> - Colocar a classe que será acessada pelo banco de dados <>
+
+Processo geral para se executar operações:
+LINQ -> DbSet -> SQL -> Banco de Dados
+
+
+

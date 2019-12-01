@@ -9,7 +9,7 @@ using SalesWebMVC.Models;
 
 namespace SalesWebMVC.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : Controller //Indica que herda da classe Controller
     {
         private readonly ILogger<HomeController> _logger;
 
@@ -20,6 +20,15 @@ namespace SalesWebMVC.Controllers
 
         public IActionResult Index()
         {
+            ViewData["Message"] = "Sales web MVC App from C# Course";
+            ViewData["Autor"] = "Henrique Marques";
+            return View();
+        }
+
+        public IActionResult About()
+        {
+            ViewData["Message"] = "Sales web MVC App from C# Course";
+            ViewData["Autor"] = "Henrique Marques";
             return View();
         }
 

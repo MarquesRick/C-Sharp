@@ -1,0 +1,24 @@
+MVC 
+
+Model: Serve para manter a estrutura dos dados e suas transformações. Composto de Entities e Services (Repositories: (objetos que acessam os dados persistentes) 
+
+Controllers: Receber e tratar as interações que o usuário realiza no sistema.
+
+Views: Definir a estrutura e comportamento da tela.
+
+Tecnologias possiveis para se trabalhar em cada um dos casos:
+
+React/Vue e Angular - Para se trabalhar com JS no front-end
+Jquery - Mexer com DOM (Paginas).
+
+Java frameworks:
+Spring
+Thymeleaf
+
+C#
+Asp.net core
+Razor
+
+Php
+Laravel
+Blade
