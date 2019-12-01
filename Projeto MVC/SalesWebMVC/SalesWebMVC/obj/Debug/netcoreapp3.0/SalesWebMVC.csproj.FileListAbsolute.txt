@@ -1,4 +1,3 @@
-C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\appsettings.Development.json
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\appsettings.json
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
@@ -31,8 +30,11 @@ C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWeb
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\MySqlConnector.dll
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
@@ -94,6 +96,7 @@ C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWeb
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
@@ -102,6 +105,7 @@ C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWeb
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\staticwebassets\SalesWebMVC.StaticWebAssets.Manifest.cache
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\staticwebassets\SalesWebMVC.StaticWebAssets.xml
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\SalesWebMVC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\SalesWebMVC.RazorAssemblyInfo.cache
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\SalesWebMVC.RazorAssemblyInfo.cs
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\SalesWebMVC.AssemblyInfoInputs.cache
@@ -109,6 +113,11 @@ C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWeb
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\SalesWebMVC.TagHelpers.input.cache
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\SalesWebMVC.TagHelpers.output.cache
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\SalesWebMVC.RazorCoreGenerate.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\Razor\Views\Home\About.cshtml.g.cs
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
@@ -124,12 +133,3 @@ C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWeb
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\SalesWebMVC.dll
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\SalesWebMVC.pdb
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\SalesWebMVC.csprojAssemblyReference.cache
-C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Create.cshtml.g.cs
-C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Delete.cshtml.g.cs
-C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Details.cshtml.g.cs
-C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Edit.cshtml.g.cs
-C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\Razor\Views\Departments\Index.cshtml.g.cs
-C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\MySqlConnector.dll
-C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
-C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\SalesWebMVC.MvcApplicationPartsAssemblyInfo.cache
