@@ -1,0 +1,30 @@
+Configurando MySQL Migration
+
+Existem dois tipos de Workflow.
+
+CODE-FIRST: Onde o banco de dados é gerado apartir do código criado.
+
+DATA-BASE-FIRST: Onde o código é gerado apartir do banco de dados.
+
+Migrations == Realiza a criação automatica de tabelas no banco de acordo com o seu código.
+
+Como realizar Migrations? 
+Entrar em Package Manager Console.
+Inserir o comando:
+
+Add-Migration "NomeQuePreferirSemAsAspas"
+
+Após realizar o comando, é necessário atualizar o banco de dados.
+
+Inserir o código no console do Package:
+Update-Database
+
+Seeding Service == Popular a base de dados - Na aula vamos implementar independente da Migration. Usando o Seeding Service
+
+GIT COMMIT:
+
+git status
+git add .
+git commit -m "Texto de descrição"
+git push
+

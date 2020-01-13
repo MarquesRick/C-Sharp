@@ -134,3 +134,4 @@ C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWeb
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\SalesWebMVC.pdb
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\SalesWebMVC.csprojAssemblyReference.cache
 C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\Projeto MVC\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.0\Razor\Views\Sellers\Create.cshtml.g.cs
