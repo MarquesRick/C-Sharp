@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace SalesWebMVC.Services
 {
@@ -30,7 +31,8 @@ namespace SalesWebMVC.Services
 
         public Seller FindById(int id)
         {
-            return _context.Seller.FirstOrDefault(obj => obj.Id == id);
+            //Include para fazer Join nas tabelas de vendedor e Departamento
+            return _context.Seller.Include(obj => obj.Department).FirstOrDefault(obj => obj.Id == id);
 
         }
 
@@ -40,5 +42,6 @@ namespace SalesWebMVC.Services
             _context.Seller.Remove(obj);
             _context.SaveChanges();
         }
+
     }
 }
