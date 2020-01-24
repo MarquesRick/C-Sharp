@@ -1,4 +1,5 @@
-﻿using SalesWebMVC.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using SalesWebMVC.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,9 +18,9 @@ namespace SalesWebMVC.Services
         }
 
         //Retornar todos os vendedores do banco de dados
-        public List<Department> FindAll()
+        public async Task<List<Department>> FindAllAsync() //Alterações para tornar a função Asincrona
         {
-            return _context.Department.OrderBy(x => x.Name).ToList(); //Traz a lista já ordenada por nome
+            return await _context.Department.OrderBy(x => x.Name).ToListAsync(); //Traz a lista já ordenada por nome
         }
     }
 }
