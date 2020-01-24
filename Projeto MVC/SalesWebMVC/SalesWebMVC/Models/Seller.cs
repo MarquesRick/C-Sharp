@@ -9,19 +9,38 @@ namespace SalesWebMVC.Models
     public class Seller
     {
         public int Id { get; set; }
+
+        /****************Atributes Name*******************************/
+        [Required(ErrorMessage = "{0} required")]
+        [StringLength(60, MinimumLength = 3, ErrorMessage = "{0} size should between {2} and {1}")]
         public string Name { get; set; }
 
+        /****************Atributes Email*******************************/
+        [EmailAddress(ErrorMessage = "Enter a valid email")]
+        [Required(ErrorMessage = "{0} required")]
         [DataType(DataType.EmailAddress)]
         public string Email { get; set; }
+
+        /****************Atributes BirthDate*******************************/
+        [Required(ErrorMessage = "{0} required")]
         [Display(Name = "Birth Date")] //Customizar o label (head) do display
         [DataType(DataType.Date)] //Tirar horas e minutos do create new
         [DisplayFormat(DataFormatString ="{0:dd/MM/yyyy}")] //0 indica valor do atributo
         public DateTime BirthDate { get; set; }
+
+        /****************Atributes BaseSalary*******************************/
+        [Range(100.0, 50000.0, ErrorMessage = "{0} must be from {1} to {2}")]
         [Display(Name = "Base Salary")]
         [DisplayFormat(DataFormatString ="{0:F2}")]
+        [Required(ErrorMessage = "{0} required")]
         public double BaseSalary { get; set; }
+
+        /****************Atributes Department*******************************/
         public Department Department { get; set; }
+
+        /****************Atributes Department Id*******************************/
         public int DepartmentId { get; set; }
+
         public ICollection<SalesRecord> Sales { get; set; } = new List<SalesRecord>();
 
         public Seller() { }

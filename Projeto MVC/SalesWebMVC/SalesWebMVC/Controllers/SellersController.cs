@@ -37,6 +37,15 @@ namespace SalesWebMVC.Controllers
         [ValidateAntiForgeryToken] //Anotação para previnir utilização da sessão para enviar dados maliciosos
         public IActionResult Create(Seller seller)
         {
+            /*Metodo de validação necessária, caso o JS do Client estiver desabilitado
+                então a validação ocorrerá pelo lado do server tmb */
+            if (!ModelState.IsValid)
+            {
+                var departments = _departmentService.FindAll();
+                var viewModel = new SellerFormViewModel { Seller = seller, Departments = departments };
+                return View(viewModel);
+            }
+
             _sellerService.Insert(seller);
             return RedirectToAction(nameof(Index)); //Método para retornar a tela principal (Index)
         }
@@ -101,6 +110,14 @@ namespace SalesWebMVC.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Edit(int id, Seller seller)
         {
+            /*Metodo de validação necessária, caso o JS do Client estiver desabilitado
+                então a validação ocorrerá pelo lado do server tmb */
+            if (!ModelState.IsValid)
+            {
+                var departments = _departmentService.FindAll();
+                var viewModel = new SellerFormViewModel { Seller = seller, Departments = departments };
+                return View(viewModel);
+            }
             if (id != seller.Id)
             {
                 return RedirectToAction(nameof(Error), new { Message = "Id mismatch" });
