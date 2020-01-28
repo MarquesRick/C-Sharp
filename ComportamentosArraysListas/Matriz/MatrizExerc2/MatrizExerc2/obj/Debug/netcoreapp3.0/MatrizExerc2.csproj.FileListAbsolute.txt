@@ -1,0 +1,11 @@
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Matriz\MatrizExerc2\MatrizExerc2\bin\Debug\netcoreapp3.0\MatrizExerc2.exe
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Matriz\MatrizExerc2\MatrizExerc2\bin\Debug\netcoreapp3.0\MatrizExerc2.deps.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Matriz\MatrizExerc2\MatrizExerc2\bin\Debug\netcoreapp3.0\MatrizExerc2.runtimeconfig.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Matriz\MatrizExerc2\MatrizExerc2\bin\Debug\netcoreapp3.0\MatrizExerc2.runtimeconfig.dev.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Matriz\MatrizExerc2\MatrizExerc2\bin\Debug\netcoreapp3.0\MatrizExerc2.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Matriz\MatrizExerc2\MatrizExerc2\bin\Debug\netcoreapp3.0\MatrizExerc2.pdb
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Matriz\MatrizExerc2\MatrizExerc2\obj\Debug\netcoreapp3.0\MatrizExerc2.csprojAssemblyReference.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Matriz\MatrizExerc2\MatrizExerc2\obj\Debug\netcoreapp3.0\MatrizExerc2.AssemblyInfoInputs.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Matriz\MatrizExerc2\MatrizExerc2\obj\Debug\netcoreapp3.0\MatrizExerc2.AssemblyInfo.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Matriz\MatrizExerc2\MatrizExerc2\obj\Debug\netcoreapp3.0\MatrizExerc2.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\ComportamentosArraysListas\Matriz\MatrizExerc2\MatrizExerc2\obj\Debug\netcoreapp3.0\MatrizExerc2.pdb
