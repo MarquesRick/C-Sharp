@@ -1,0 +1,10 @@
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\TopicosEspeciais\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.0\FuncoesString.exe
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\TopicosEspeciais\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.0\FuncoesString.deps.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\TopicosEspeciais\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.0\FuncoesString.runtimeconfig.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\TopicosEspeciais\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.0\FuncoesString.runtimeconfig.dev.json
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\TopicosEspeciais\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.0\FuncoesString.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\TopicosEspeciais\FuncoesString\FuncoesString\bin\Debug\netcoreapp3.0\FuncoesString.pdb
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\TopicosEspeciais\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.0\FuncoesString.AssemblyInfoInputs.cache
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\TopicosEspeciais\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.0\FuncoesString.AssemblyInfo.cs
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\TopicosEspeciais\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.0\FuncoesString.dll
+C:\Users\henma\source\repos\MarquesRick\C-Sharp\TopicosEspeciais\FuncoesString\FuncoesString\obj\Debug\netcoreapp3.0\FuncoesString.pdb
