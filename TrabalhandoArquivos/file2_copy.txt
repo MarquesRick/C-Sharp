@@ -1,0 +1,3 @@
+teste File 
+teste FileInfo
+teste IOException
